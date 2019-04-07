@@ -1,2 +1,2 @@
 # Vizzy
-Test integrating Vizzys
+Test integrating Vizzy
