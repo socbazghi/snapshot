@@ -1,4 +1,4 @@
 # Vizzy
-Test integrating Vizzy
+Test integrating Vizzys
 s
 s
