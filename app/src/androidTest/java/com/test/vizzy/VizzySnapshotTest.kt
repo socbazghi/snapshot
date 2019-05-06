@@ -14,6 +14,6 @@ class VizzySnapshotTest {
 
     @Test
     fun takePicOfHomescreen() {
-        Thread.sleep(1000)
+        takeScreenshot( screenShotName = "homescreen")
     }
 }
